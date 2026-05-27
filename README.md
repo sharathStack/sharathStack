@@ -24,14 +24,16 @@ to quantitative finance engines and ETL pipelines.
 
 ## 📌 Featured Projects
 
+## 📌 Featured Projects
+
 | Project | Stack | Highlight |
 |---------|-------|-----------|
-| [Market Making Engine](link) | Python · asyncio | A-S model, 0.31µs latency |
-| [Options Vol Surface](link) | Python · SciPy | BSM · Heston · SABR calibration |
-| [AlphaNet DL Engine](link) | PyTorch · LSTM | 1.24M params, walk-forward backtest |
-| [Stat Arb Engine](link) | Statsmodels · sklearn | Kalman filter, Johansen test |
-| [Financial Sentiment](link) | HuggingFace · MLflow | +12% over FinBERT baseline |
-| [Healthcare ETL](link) | Pandas · SQLite | 70% processing time reduction |
+| [Market Making Engine](https://github.com/sharathStack/Ultra-Low-Latency-Market-Making-Engine) | Python · asyncio | A-S model, 0.31µs latency |
+| [Options Vol Surface](https://github.com/sharathStack/Options-Pricing-Volatility-Surface-Engine) | Python · SciPy | BSM · Heston · SABR calibration |
+| [AlphaNet DL Engine](https://github.com/sharathStack/Deep-Learning-Alpha-Engine-AlphaNet-) | PyTorch · LSTM | 1.24M params, walk-forward backtest |
+| [Stat Arb Engine](https://github.com/sharathStack/Statistical-Arbitrage-Pairs-Trading-Engine) | Statsmodels · sklearn | Kalman filter, Johansen test |
+| [Financial Sentiment](https://github.com/sharathStack/Financial-Sentiment-Analysis) | HuggingFace · MLflow | +12% over FinBERT baseline |
+| [Healthcare ETL](https://github.com/sharathStack/Healthcare-ETL-Pipeline) | Pandas · SQLite | 70% processing time reduction |
 
 ---
 
