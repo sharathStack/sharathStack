@@ -5,7 +5,7 @@ Data Scientist · AI/LLM Analyst · MFE Candidate @ WorldQuant University
 I build end-to-end data systems — from ML pipelines and NLP models
 to quantitative finance engines and ETL pipelines.
 
-🔭 Currently: MFE @ WorldQuant + AI/LLM Analyst @ INNODATA & Turing
+🔭 Currently: MFE @ WorldQuant + Domain Expert @ Turing
 🌱 Learning: Derivatives pricing, stochastic processes, algorithmic trading
 💼 Open to: Data Scientist, ML Engineer, Quant Analyst roles
 📍 Based in Hyderabad, India
@@ -35,5 +35,5 @@ to quantitative finance engines and ETL pipelines.
 
 ---
 
-📫 sharathbablu287@gmail.com
+📫 sharathchandra.data@gmail.com
 🔗 linkedin.com/in/sharath-chandra-75b108173
